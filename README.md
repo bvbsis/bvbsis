@@ -1,9 +1,16 @@
 <img src="./загруженное.png"/>
 
-<h2><a href='https://github.com/t0pall'>🔗 There is my main GitHub profile</a></h2>
+### • 👨‍💻 I'm learning to write high-quality, easy-to-read code
+### • 🤝 I believe that I will become a part of a friendly team of professionals
+### • 📈 I dream to work on complex projects to grow on myself 
 
-[![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)
+# My main GitHub profile
+<h2><a href='https://github.com/t0pall'>🔗 Link</a></h2>
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+
+# My stack:
 <div> 
  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>
  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -21,4 +28,6 @@
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvbsis&show_icons=true&card_width=1000)
+# My statistic:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0pall&show_icons=true&card_width=400)
+[![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)
