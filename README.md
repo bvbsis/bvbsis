@@ -1,6 +1,6 @@
 <img src="./загруженное.png"/>
 
-<h2><a href='https://github.com/bvbsis'>There is my second GitHub profile</a></h2>
+<h2><a href='https://github.com/t0pall'>There is my main GitHub profile</a></h2>
 
 [![codewars](https://www.codewars.com/users/Igor%20Topal/badges/large)](https://www.codewars.com/users/Igor%20Topal)
 
@@ -21,6 +21,4 @@
  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </div>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=t0pall&theme=transparent&card_width=1000)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=t0pall&show_icons=true&card_width=1000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bvbsis&show_icons=true&card_width=1000)
