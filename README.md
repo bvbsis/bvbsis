@@ -7,8 +7,8 @@
 # My main GitHub profile
 <h2><a href='https://github.com/t0pall'>🔗 Link</a></h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ) 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=madushadhanushka&repo=differ)](https://github.com/madushadhanushka/differ)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=kupipodariday-backend)](https://github.com/madushadhanushka/differ) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=t0pall&repo=web-plus-docker-and-compose)](https://github.com/madushadhanushka/differ)
 
 # My stack:
 <div> 
